@@ -8,7 +8,7 @@
     
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=350px>
+<img src="Right_Side.gif" width=350px>
         </td>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r41h4n0080&label=Profile%20views&color=0e75b6&style=flat" alt="r41h4n0080" /> </p>
