@@ -1,10 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Dilshan+Dinuja;"
+<img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Raihan;"
             alt="Headline" />
             <img
             src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-        <div align="center">
-            <img src="mtt2.png" width="300px">
-        </div>
      <br />
             
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
